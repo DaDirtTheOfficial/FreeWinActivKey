@@ -6,7 +6,6 @@ Welcome to the Windows Activation Guide! Follow the simple steps below to activa
 ## 🚀 Quick Setup
 
 1. **Download the Batch File**
-   - [Download Here](#)
 
 2. **Run the Batch File**
    - Right-click the file and select "Run as Administrator."
